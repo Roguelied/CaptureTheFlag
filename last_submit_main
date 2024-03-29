@@ -3,59 +3,9 @@
     "errors": null,
     "data": [
         {
-            "id": "c219f548-f555-4f1f-a754-ccf56018f77e",
             "points": 250,
-            "user_id": "3d2852ff-5c84-46a4-ae45-4a90cbc475fe",
             "team_id": "00000000-0000-0000-0000-000000000000",
             "task_id": "ee454444-e3c3-4edf-884c-c75561f6b4d5",
-            "category_id": "f4d6395a-322d-4046-95cc-92a1be1a9026",
-            "event_id": "2e7e069f-1132-43cb-9e31-aea43d84bf38",
-            "updated_at": "2024-03-27T07:56:44.590213Z",
-            "created_at": "2024-03-27T07:56:44.590213Z"
-        },
-        {
-            "id": "ed9fc1b0-8858-44f3-8f32-26a31a078baf",
-            "points": 750,
-            "user_id": "16ec3c90-86ea-4629-adb8-ce6264ba6473",
-            "team_id": "00000000-0000-0000-0000-000000000000",
-            "task_id": "e28eff4f-8647-4732-b5bc-bd8fd0fba14a",
-            "category_id": "919b9bbf-c309-4121-8d7d-1196e283b065",
-            "event_id": "2e7e069f-1132-43cb-9e31-aea43d84bf38",
-            "updated_at": "2024-03-26T08:54:08.311317Z",
-            "created_at": "2024-03-26T08:54:08.311317Z"
-        },
-        {
-            "id": "3299de8b-2425-4701-998e-196b0a971575",
-            "points": 250,
-            "user_id": "16ec3c90-86ea-4629-adb8-ce6264ba6473",
-            "team_id": "00000000-0000-0000-0000-000000000000",
-            "task_id": "41c6106d-774d-4aab-a35c-efa02223458a",
-            "category_id": "4c5d5c57-4665-4ba9-8d77-509df9789363",
-            "event_id": "2e7e069f-1132-43cb-9e31-aea43d84bf38",
-            "updated_at": "2024-03-26T08:53:51.026327Z",
-            "created_at": "2024-03-26T08:53:51.026327Z"
-        },
-        {
-            "id": "8394fe0a-7cda-4841-8aab-98e24cdf9578",
-            "points": 500,
-            "user_id": "16ec3c90-86ea-4629-adb8-ce6264ba6473",
-            "team_id": "00000000-0000-0000-0000-000000000000",
-            "task_id": "e6d5261d-b7c6-4849-83ed-ed3d213002fb",
-            "category_id": "f4d6395a-322d-4046-95cc-92a1be1a9026",
-            "event_id": "2e7e069f-1132-43cb-9e31-aea43d84bf38",
-            "updated_at": "2024-03-26T08:53:34.115334Z",
-            "created_at": "2024-03-26T08:53:34.115334Z"
-        },
-        {
-            "id": "32b80399-1273-488f-8bea-4de891580b96",
-            "points": 750,
-            "user_id": "020390a2-e50b-4b32-9fea-ba77bb76b862",
-            "team_id": "00000000-0000-0000-0000-000000000000",
-            "task_id": "e28eff4f-8647-4732-b5bc-bd8fd0fba14a",
-            "category_id": "919b9bbf-c309-4121-8d7d-1196e283b065",
-            "event_id": "2e7e069f-1132-43cb-9e31-aea43d84bf38",
-            "updated_at": "2024-03-26T08:50:47.394298Z",
-            "created_at": "2024-03-26T08:50:47.394298Z"
         }
     ]
 }
