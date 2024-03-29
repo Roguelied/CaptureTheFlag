@@ -1,1 +1,76 @@
+{
+  "status": true,
+  "errors": null,
+  "data": [
+    {
+      "team": {
+        "name": "IDA enjoyers",
+      },
+      "points": 7200,
+    },
+
+    {
+      "team": {
+        "name": "8.6.4.2",
+      },
+      "points": 6666,
+    },
+
+    {
+      "team": {
+        "name": "Azure Ray",
+      },
+      "points": 5800,
+    },
+
+    {
+      "team": {
+        "name": "Mimikatz boomers",
+      },
+      "points": 5600,
+    },
+
+    {
+      "team": {
+        "name": "Metasploit bastards",
+      },
+      "points": 5000,
+    },
+
+    {
+      "team": {
+        "name": "Cobalt-stikers",
+      },
+      "points": 4800,
+    },
+
+    {
+      "team": {
+        "name": "Hex Lovers",
+      },
+      "points": 4000,
+    },
+
+    {
+      "team": {
+        "name": "Hex Lovers",
+      },
+      "points": 2000,
+    },
+
+    {
+      "team": {
+        "name": "Hex Lovers",
+      },
+      "points": 1500,
+    },
+
+    {
+      "team": {
+        "name": "Hex Lovers",
+      },
+      "points": 200,
+    },
+  ]
+}
 
