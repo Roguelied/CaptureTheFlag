@@ -1,1 +1,20 @@
-
+{
+    "status": true,
+    "errors": null,
+    "data": {
+        "team": {
+            "id": "86d9d20f-378d-4356-8731-6f42152fbaab",
+            "name": "IDA enjoyers",
+            "description": "",
+            "avatar": "",
+            "owner_id": "",
+            "updated_at": "2024-03-26T05:37:33.571687Z",
+            "created_at": "2024-03-26T05:37:33.571687Z"
+        },
+        "points": 7200,
+        "place": 1,
+        "rating": 100,
+        "completed_tasks": 16,
+        "updated_at": "2024-03-28T06:54:16.557266Z"
+    }
+}
