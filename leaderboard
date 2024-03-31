@@ -4,73 +4,72 @@
   "data": [
     {
       "team": {
-        "name": "IDA enjoyers",
+        "name": "3x3constellation",
       },
-      "points": 7200,
+      "points": 16500,
+    },
+
+    {
+      "team": {
+        "name": "0t_v1Nt4",
+      },
+      "points": 15500,
+    },
+
+    {
+      "team": {
+        "name": "monKEYz",
+      },
+      "points": 12500,
+    },
+
+    {
+      "team": {
+        "name": "TanukiSquad",
+      },
+      "points": 9750,
     },
 
     {
       "team": {
         "name": "8.6.4.2",
       },
-      "points": 6666,
+      "points": 9500,
     },
 
     {
       "team": {
-        "name": "Azure Ray",
+        "name": "DilettanteSquad",
       },
-      "points": 5800,
+      "points": 8250,
     },
 
     {
       "team": {
-        "name": "Mimikatz boomers",
+        "name": "K0TN",
       },
-      "points": 5600,
+      "points": 8000,
     },
 
     {
       "team": {
-        "name": "Metasploit bastards",
+        "name": "fb cr3w",
       },
-      "points": 5000,
+      "points": 8000,
     },
 
     {
       "team": {
-        "name": "Cobalt-stikers",
-      },
-      "points": 4800,
+        "name": "F&TH",
+      6750
+      "points": 5500,
     },
 
     {
       "team": {
-        "name": "Etr1x was here (no)",
+        "name": "EternalSpring",
       },
-      "points": 4000,
-    },
-
-    {
-      "team": {
-        "name": "ffuf crawlers",
-      },
-      "points": 2000,
-    },
-
-    {
-      "team": {
-        "name": "Burp fart",
-      },
-      "points": 1500,
-    },
-
-    {
-      "team": {
-        "name": "Script-kiddies",
-      },
-      "points": 200,
+      "points": 5500,
     },
   ]
 }
-
