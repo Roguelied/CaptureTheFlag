@@ -4,72 +4,72 @@
   "data": [
     {
       "team": {
-        "name": "3x3constellation",
-      },
-      "points": 16500,
-    },
-
-    {
-      "team": {
-        "name": "0t_v1Nt4",
-      },
-      "points": 15500,
-    },
-
-    {
-      "team": {
-        "name": "monKEYz",
-      },
-      "points": 12500,
-    },
-
-    {
-      "team": {
-        "name": "TanukiSquad",
-      },
-      "points": 9750,
-    },
-
-    {
-      "team": {
-        "name": "8.6.4.2",
-      },
-      "points": 9500,
-    },
-
-    {
-      "team": {
-        "name": "DilettanteSquad",
-      },
-      "points": 8250,
-    },
-
-    {
-      "team": {
-        "name": "K0TN",
-      },
-      "points": 8000,
-    },
-
-    {
-      "team": {
-        "name": "fb cr3w",
-      },
-      "points": 8000,
-    },
-
-    {
-      "team": {
-        "name": "F&TH",
+        "name": "Cyber Security Of Teapots",
       },
       "points": 7250,
     },
 
     {
       "team": {
-        "name": "EternalSpring",
+        "name": "Шварц юден",
       },
-      "points": 5500,
+      "points": 1750,
+    },
+
+    {
+      "team": {
+        "name": "Рободроп",
+      },
+      "points": 1000,
+    },
+
+    {
+      "team": {
+        "name": "Cyberbenzo",
+      },
+      "points": 0,
+    },
+
+    {
+      "team": {
+        "name": "Immortal Hope",
+      },
+      "points": 0,
+    },
+
+    {
+      "team": {
+        "name": "N3east0vaya_5rka",
+      },
+      "points": 0,
+    },
+
+    {
+      "team": {
+        "name": "R0D1AM",
+      },
+      "points": 0,
+    },
+
+    {
+      "team": {
+        "name": "re@crack",
+      },
+      "points": 0,
+    },
+
+    {
+      "team": {
+        "name": "Улыбашки",
+      6750
+      "points": 0,
+    },
+
+    {
+      "team": {
+        "name": "Robocop",
+      },
+      "points": 0,
     },
   ]
 }
